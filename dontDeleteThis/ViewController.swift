@@ -30,7 +30,8 @@ class ViewController: UIViewController {
     }
     
     func samsung() {
-        print("The Samsung Galaxy Note 10 Plus is better than the iPhone 11 Pro")
+        print("The Samsung Galaxy S10 is better than the iPhone XS")
     }
+    
 }
 
