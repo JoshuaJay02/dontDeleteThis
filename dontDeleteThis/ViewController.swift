@@ -18,5 +18,9 @@ class ViewController: UIViewController {
     func help() {
         print("nerd")
     }
+    
+    func kelvin() {
+        print("BOOMER")
+    }
 }
 
